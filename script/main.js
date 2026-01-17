@@ -193,7 +193,7 @@ const animationTimeline = () => {
             scale: 3.5,
             opacity: 0,
             x: 70,
-            y: 200,
+            y: 1000,
             rotationZ: -45,
         },
         "-=2"
